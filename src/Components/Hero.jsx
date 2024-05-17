@@ -2,6 +2,7 @@ import React from "react";
 import heroImg from '../assets/images/image-web-3-desktop.jpg'
 import { Link } from "react-router-dom";
 const Hero = () => {
+  
   return (
     <div>
       
